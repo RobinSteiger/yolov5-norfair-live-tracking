@@ -1,0 +1,7 @@
+opencv-python
+yolov5
+numpy
+norfair
+pyzmq
+python-osc
+torch==2.1.0

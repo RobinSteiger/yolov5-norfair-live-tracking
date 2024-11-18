@@ -8,7 +8,7 @@ The informations extracted are, realtively to a calibrated zone :
 
 - Inside/Outside of the calibrated zone
 - Position in % relative to the calibrated zone
-- Moving/Immobile
+- Moving/Still
 
 This project was realized in the context of the 5 semester's project at [HEIA-FR](https://www.heia-fr.ch/) and 
 used in an interactive art installation at [Murten Licht Festival 2024](https://fr.murtenlichtfestival.ch/).

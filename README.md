@@ -21,9 +21,7 @@ The project was realized under the supervision of **Beat Wolf**, **Damien Goetsc
 
   
 
-Go into projet/src,
-
-Install necesaries librairies : `pip install requirements.txt`
+Install necesaries librairies : `pip install -r requirements.txt`
 
   
 

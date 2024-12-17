@@ -15,6 +15,10 @@ used in an interactive art installation at [Murten Licht Festival 2024](https://
 
 The project was realized under the supervision of **Beat Wolf**, **Damien Goetschi** and **Jean Hennebert**.
 
+Result exemple : 
+
+https://github.com/user-attachments/assets/12dfaff5-68d4-43c1-8a01-d9a2a7f694f3
+
 
 
 ## Setup

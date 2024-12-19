@@ -10,14 +10,12 @@ The informations extracted are, realtively to a calibrated zone :
 - Position in % relative to the calibrated zone
 - Moving/Still
 
-This project was realized in the context of the 5 semester's project at [HEIA-FR](https://www.heia-fr.ch/) and 
-used in an interactive art installation at [Murten Licht Festival 2024](https://fr.murtenlichtfestival.ch/).
+This project was realized in the context of the 5 semester project at [HEIA-FR](https://www.heia-fr.ch/), 
+in collaboration with [Eikon](https://eikon.ch/) and [Minus3](https://minus3.super.site/).
+It was used in an interactive art installation at [Murten Licht Festival 2024](https://fr.murtenlichtfestival.ch/).
 
 The project was realized under the supervision of **Beat Wolf**, **Damien Goetschi** and **Jean Hennebert**.
 
-Result exemple : 
-
-https://github.com/user-attachments/assets/12dfaff5-68d4-43c1-8a01-d9a2a7f694f3
 
 
 
